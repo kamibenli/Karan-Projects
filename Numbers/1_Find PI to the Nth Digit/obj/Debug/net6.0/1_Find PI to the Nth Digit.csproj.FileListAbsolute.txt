@@ -1,0 +1,15 @@
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\bin\Debug\net6.0\1_Find PI to the Nth Digit.exe
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\bin\Debug\net6.0\1_Find PI to the Nth Digit.deps.json
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\bin\Debug\net6.0\1_Find PI to the Nth Digit.runtimeconfig.json
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\bin\Debug\net6.0\1_Find PI to the Nth Digit.dll
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\bin\Debug\net6.0\1_Find PI to the Nth Digit.pdb
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\1_Find PI to the Nth Digit.csproj.AssemblyReference.cache
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\1_Find PI to the Nth Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\1_Find PI to the Nth Digit.AssemblyInfoInputs.cache
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\1_Find PI to the Nth Digit.AssemblyInfo.cs
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\1_Find PI to the Nth Digit.csproj.CoreCompileInputs.cache
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\1_Find PI to the Nth Digit.dll
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\refint\1_Find PI to the Nth Digit.dll
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\1_Find PI to the Nth Digit.pdb
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\1_Find PI to the Nth Digit.genruntimeconfig.cache
+C:\Users\kamib\Documents\Karan Projects\Numbers\1_Find PI to the Nth Digit\obj\Debug\net6.0\ref\1_Find PI to the Nth Digit.dll
